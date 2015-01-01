@@ -1,0 +1,8 @@
+C:\Users\sanjay\Documents\Visual Studio 2013\Projects\Result in Grading App\Result in Grading App\bin\Debug\Result in Grading App.exe.config
+C:\Users\sanjay\Documents\Visual Studio 2013\Projects\Result in Grading App\Result in Grading App\bin\Debug\Result in Grading App.exe
+C:\Users\sanjay\Documents\Visual Studio 2013\Projects\Result in Grading App\Result in Grading App\bin\Debug\Result in Grading App.pdb
+C:\Users\sanjay\Documents\Visual Studio 2013\Projects\Result in Grading App\Result in Grading App\obj\Debug\Result_in_Grading_App.Form1.resources
+C:\Users\sanjay\Documents\Visual Studio 2013\Projects\Result in Grading App\Result in Grading App\obj\Debug\Result_in_Grading_App.Properties.Resources.resources
+C:\Users\sanjay\Documents\Visual Studio 2013\Projects\Result in Grading App\Result in Grading App\obj\Debug\Result in Grading App.csproj.GenerateResource.Cache
+C:\Users\sanjay\Documents\Visual Studio 2013\Projects\Result in Grading App\Result in Grading App\obj\Debug\Result in Grading App.exe
+C:\Users\sanjay\Documents\Visual Studio 2013\Projects\Result in Grading App\Result in Grading App\obj\Debug\Result in Grading App.pdb
